@@ -22,4 +22,4 @@ Day 1: Regression models
 # How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/<your-username>/parkinsons-ml-project.git
+   git clone https://github.com/Bharathraj-rcode/Parkinsons_ML_project.git
